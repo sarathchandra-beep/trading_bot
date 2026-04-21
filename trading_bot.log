@@ -1,0 +1,4 @@
+2026-04-21 20:50:07,542 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-04-21 20:50:07,543 - ERROR - Order failed: unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-04-21 20:54:24,429 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-04-21 20:54:26,227 - INFO - Order Response: {}
